@@ -1,2 +1,2 @@
-Complete Machine Learning Google Cloud Dicodidng Course
+Complete Machine Learning Google Cloud Dicoding Course
 Backend with ExpressJS
